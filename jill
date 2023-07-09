@@ -1,0 +1,13 @@
+＄ mkdir hoge && cd hoge
+
+＄ git init
+
+＄ echo Hello ＞ README.md
+
+＄ git add README.md
+
+＄ git commit -m "first commit"
+
+＄ git log --oneline
+
+45e2f9c (HEAD -＞ master) first commit
